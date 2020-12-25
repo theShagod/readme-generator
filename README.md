@@ -1,5 +1,5 @@
 # Readme Generator
-In order to be able to create fast and detailed readmes.
+This app was created in order to be able to create fast and detailed readmes.
 
 ![Image](./readmeDemo.png)
 ## Motivation
